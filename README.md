@@ -2,10 +2,15 @@
 
 16 customizable vector arrows for ss.
 
-## Usage
+## Install
 
-Add this repository with `ss add --git REPOSITORY_URL`, then import `pkg:arrows`.
-Requires an ss build with Git import support.
+Run in your ss project directory:
+
+```sh
+ss add --git https://github.com/abap34/arrows.git
+```
+
+## Usage
 
 ```ss
 import pkg:arrows as a
