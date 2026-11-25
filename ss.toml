@@ -1,0 +1,3 @@
+[package]
+name = "arrows"
+entry = "lib.ss"
